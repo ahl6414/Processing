@@ -1,0 +1,49 @@
+size(700,700);
+//red left bottom corner
+beginShape();
+fill(250,0,0);
+vertex(220,500);
+vertex(330,280);
+vertex(50,350);
+vertex(313,297);
+endShape(CLOSE);
+//red right upper corner
+beginShape();
+fill(255,0,0);
+vertex(382, 172);
+vertex(367, 252);
+vertex(442, 232);
+vertex(376, 244);
+endShape(CLOSE);
+//bottom blue right
+beginShape();
+fill(0,0,255);
+vertex(442, 252);
+vertex(376,274);
+vertex(432, 352);
+vertex(386, 275);
+endShape(CLOSE);
+// top left blue
+beginShape();
+fill(0,0, 255);
+vertex(86, 152);
+vertex(347, 256);
+vertex(292, 142);
+vertex(333, 242);
+endShape(CLOSE);
+//bottom blue
+beginShape();
+fill(0,0,255);
+vertex(422, 452);
+vertex(356, 280);
+vertex(302, 492);
+vertex(357, 300);
+endShape(CLOSE);
+//top blue
+beginShape();
+fill(0,0,255);
+vertex(46, 332);
+vertex(332, 264);
+vertex(56, 182);
+vertex(296, 260);
+endShape(CLOSE);
