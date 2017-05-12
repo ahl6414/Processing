@@ -1,0 +1,16 @@
+size(700, 700);
+smooth();
+strokeWeight(0);
+fill(87);
+triangle(280, 225, 475, 150, 475, 270);
+strokeWeight(0);
+fill(87);
+ellipse(350, 350, 300, 300);
+fill(0);
+arc(350, 385, 250, 200, 0, PI);
+fill(0);
+triangle(290, 275, 325, 330, 225, 300);
+triangle(420, 275, 375, 330, 473, 300);
+fill(255);
+triangle(255, 385, 275, 410, 295, 385);
+triangle(400,385, 420, 410, 437, 385);
